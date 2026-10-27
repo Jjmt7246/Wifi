@@ -10,6 +10,7 @@ a time with approval.
 | # | Phase | Status |
 |---|---|---|
 | 1 | Automatic identification (network discovery from Windows) | **Ready: [`discovery/`](discovery/README.md)** |
+| 1b | Vizio SmartCast: privacy, streaming-box mode, undo | **Ready: [`vizio/`](vizio/README.md)** |
 | 2 | Advanced access research for the exact model and firmware (developer mode, ADB, sideloading, launchers, root/homebrew feasibility, recovery) | After phase 1 results |
 | 3 | Baseline benchmarks (boot time, app launch, RAM, network latency, DNS) | After phase 2 |
 | 4 | Optimization, one change at a time, with backup and rollback | After phase 3 |
